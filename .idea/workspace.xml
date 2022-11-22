@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df658f4b-3746-400f-ad89-e222dadb3d0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bank_Spring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank_Spring/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank_Spring/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank_Spring/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank_Spring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank_Spring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank_Spring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank_Spring/src/main/java/com/happiestminds/Accountant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank_Spring/src/main/java/com/happiestminds/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank_Spring/src/main/java/com/happiestminds/BankApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank_Spring/src/main/java/com/happiestminds/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank_Spring/src/main/java/com/happiestminds/EmployeeConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank_Spring/src/main/java/com/happiestminds/EmployeeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank_Spring/src/main/java/com/happiestminds/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank_Spring/src/main/resources/ApplicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank_Spring/src/test/java/com/happiestminds/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happiestminds/config/EmployeeConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happiestminds/config/SpringDispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happiestminds/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happiestminds/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Employee.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/dashboard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/happiestminds/config/EmployeeConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/happiestminds/config/SpringDispatcher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/happiestminds/controller/EmployeeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/happiestminds/model/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstMVCExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstMVCExample/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstMVCExample/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstMVCExample/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstMVCExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstMVCExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstMVCExample/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstMVCExample/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstMVCExample/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstMVCExample/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPDemo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPDemo/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPDemo/src/main/java/org/example/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPDemo/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPDemo/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jdbc_new/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jdbc_new/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jdbc_new/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jdbc_new/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jdbc_new/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jdbc_new/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jdbc_new/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jdbc_new/src/main/java/com/happiestminds/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jdbc_new/src/main/java/com/happiestminds/JDBCconnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jdbc_new/src/test/java/com/happiestminds/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_spring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_spring/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_spring/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_spring/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_spring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_spring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_spring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_spring/src/main/java/com/Example/controller/Scontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_spring/src/main/webapp/WEB-INF/spring-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_spring/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC_spring/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo/src/main/java/com/example/controller/Scontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo/src/main/webapp/WEB-INF/spring-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo/src/main/webapp/WEB-INF/view/dashboard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo/src/main/webapp/WEB-INF/view/home-page.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemo2/ServletDemo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemoSecond/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemoSecond/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemoSecond/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemoSecond/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemoSecond/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemoSecond/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemoSecond/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemoSecond/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemoSecond/src/main/java/com/example/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemoSecond/src/main/java/com/example/config/SpringMvcDispatcherServletIntializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemoSecond/src/main/java/com/example/controller/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemoSecond/src/main/java/com/example/model/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemoSecond/src/main/webapp/WEB-INF/view/helloworld.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletDemoSecond/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/src/main/java/org/example/AdvancedSpellChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/src/main/java/org/example/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/src/main/java/org/example/BasicSpellChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/src/main/java/org/example/EmailApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/src/main/java/org/example/Emailclient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/src/main/java/org/example/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/src/main/java/org/example/SpellChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_1/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CIDemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CIDemo/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GkT7hV2TjPZ80AaZBuDDNistRL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Poornesh.h/Downloads/SpringBootHelloWorld (1)/SpringBootHelloWorld",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Tomcat: Employee_Spring" type="com.poratu.idea.plugins.tomcat" temporary="true">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="adminPort" value="8006" />
+      <option name="contextPath" value="/Employee_Spring" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.68" />
+          <option name="path" value="$USER_HOME$/Downloads/apache-tomcat-9.0.68-windows-x64 (1)/apache-tomcat-9.0.68" />
+          <option name="version" value="9.0.68.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Smart Tomcat.Tomcat: Employee_Spring" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df658f4b-3746-400f-ad89-e222dadb3d0d" name="Changes" comment="" />
+      <created>1666931419094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666931419094</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
